@@ -1,6 +1,6 @@
 Pizza_or_not: 
-            Binary classifier that tries to predict if the pizza is on image or another dish.
-            Dataset link: https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza
+Binary classifier that tries to predict if the pizza is on image or another dish.
+Dataset link: https://www.kaggle.com/datasets/carlosrunner/pizza-not-pizza
             
 Neural_Style_Transfer:
                      Neural network that transfer style from style image on content image.
